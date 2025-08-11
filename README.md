@@ -26,7 +26,7 @@
 - MySQL | PostgreSQL | SQL Queries  
 
 ### **Tools & Platforms**
-- Git | GitHub | IntelliJ IDEA | Eclipse | VS Code  
+- Git | GitHub | Sprintool Suite | Eclipse | VS Code  
 
 ---
 
