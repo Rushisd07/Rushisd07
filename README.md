@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **B.Tech in Computer Science & Engineering** from Sanjeevan Engineering Technology Institute, Panhala. with 8.36 CGPA.  
+- 🎓 **B.Tech in Computer Science & Engineering (2023 Passout)** from Sanjeevan Engineering Technology Institute, Panhala. with 8.36 CGPA.  
 - 💼 Internship experience at **VEV Code Lab Pune** working on real-world projects like Loan Management System in Spring Boot.  
 - 🌱 Currently exploring **Microservices**, **Cloud Deployment**, and **Advanced React.js**.  
 - 💡 Always ready to collaborate on interesting **Java + React** projects.  
