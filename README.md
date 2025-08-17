@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rushikesh Dudhane  
 
 🚀 **Full Stack Java Developer** | Passionate about building efficient, scalable, and user-friendly web applications.  
-💻 8+ months of professional experience with **Java, Spring Boot, React.js**, and modern web technologies.  
+💻 2+ Years of professional experience with **Java, Spring Boot, React.js**, and modern web technologies.  
 
 ---
 
